@@ -1,0 +1,2 @@
+record_id,study_id,title,year,venue,Q1_ai_technique,Q2_dataset_described,Q3_quantitative_metrics,Q4_reproducible_methodology,Q5_results_and_limitations,total,included,exclusion_reason,note
+NOT_AVAILABLE,,Individual QA scores not supplied,,,,,,,,,,,Manuscript reports 5 exclusions below cutoff; record-level QA scores require Parsifal export.

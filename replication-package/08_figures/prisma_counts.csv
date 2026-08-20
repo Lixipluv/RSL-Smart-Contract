@@ -1,0 +1,13 @@
+stage,description,count,notes
+identification,Records identified across IEEE Xplore + ACM DL + Springer Link,1903,In-scope records after database-level scope filtering
+identification,Duplicate records removed,187,
+screening,Records screened (title and abstract),1716,1903 - 187
+screening,Records excluded at screening,1605,
+retrieval,Reports sought for retrieval,111,1716 - 1605
+retrieval,Reports not retrieved,0,All full texts were accessible
+eligibility,Reports assessed for eligibility,111,
+eligibility,Reports excluded — not AI for SC security,9,
+eligibility,Reports excluded — below quality cut-off,5,QA total < 3.0
+eligibility,Reports excluded — non-security / price prediction,4,
+eligibility,Total reports excluded at eligibility,18,9 + 5 + 4
+included,Studies included in the review,93,111 - 18

@@ -1,0 +1,2 @@
+record_id,title,authors,year,database,decision,exclusion_reason,note
+NOT_AVAILABLE,1716 record-level title/abstract decisions not supplied,,,,,,Populate from Parsifal export.

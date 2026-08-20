@@ -1,0 +1,2 @@
+record_id,study_id,title,authors,year,venue,doi,database,decision,exclusion_reason,note
+NOT_AVAILABLE,,111 record-level full-text decisions not supplied,,,,,,,,93 included studies are separately available in included_studies_P1-P93.csv; 18 excluded reports require Parsifal export.
